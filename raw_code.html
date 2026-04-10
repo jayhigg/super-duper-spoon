@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en" style="scroll-behavior: smooth;"><head>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Velorah® | Where dreams rise</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&amp;family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "inverse-surface": "#d4e3ff",
+                        "outline": "#8e9199",
+                        "on-tertiary-container": "#7089b0",
+                        "on-primary-fixed": "#1a1c1c",
+                        "on-primary": "#2f3131",
+                        "surface-dim": "#00142b",
+                        "on-secondary-fixed": "#0d1c2d",
+                        "inverse-on-surface": "#153153",
+                        "tertiary": "#aec8f1",
+                        "on-tertiary": "#153153",
+                        "on-background": "#d4e3ff",
+                        "surface-variant": "#1a3657",
+                        "surface-tint": "#c6c6c7",
+                        "on-secondary-container": "#a7b6cc",
+                        "on-primary-fixed-variant": "#454747",
+                        "on-error": "#690005",
+                        "secondary-container": "#39485a",
+                        "surface-container-lowest": "#000e22",
+                        "surface-container-high": "#0c2b4c",
+                        "on-surface-variant": "#c4c6cf",
+                        "primary-container": "#1f2121",
+                        "secondary": "#b9c8de",
+                        "primary-fixed-dim": "#c6c6c7",
+                        "on-tertiary-fixed-variant": "#2e486b",
+                        "surface-bright": "#1f3a5c",
+                        "on-error-container": "#ffdad6",
+                        "on-tertiary-fixed": "#001c39",
+                        "outline-variant": "#43474e",
+                        "surface-container-low": "#001c39",
+                        "on-primary-container": "#878888",
+                        "on-surface": "#d4e3ff",
+                        "tertiary-container": "#002142",
+                        "primary-fixed": "#e2e2e2",
+                        "error-container": "#93000a",
+                        "secondary-fixed-dim": "#b9c8de",
+                        "inverse-primary": "#5d5f5f",
+                        "tertiary-fixed-dim": "#aec8f1",
+                        "secondary-fixed": "#d4e4fa",
+                        "primary": "#c6c6c7",
+                        "on-secondary": "#233143",
+                        "surface-container-highest": "#1a3657",
+                        "surface-container": "#002040",
+                        "surface": "#00142b",
+                        "background": "#00142b",
+                        "on-secondary-fixed-variant": "#39485a",
+                        "error": "#ffb4ab",
+                        "tertiary-fixed": "#d4e3ff",
+                        "brand-navy": "#002142"
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    fontFamily: {
+                        "headline": ["Instrument Serif", "serif"],
+                        "body": ["Inter", "sans-serif"],
+                        "label": ["Inter", "sans-serif"]
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        @keyframes fade-rise {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fade-rise {
+            animation: fade-rise 1.2s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+        }
+        .animate-fade-rise-delay {
+            opacity: 0;
+            animation: fade-rise 1.2s cubic-bezier(0.22, 1, 0.36, 1) 0.3s forwards;
+        }
+        .animate-fade-rise-delay-2 {
+            opacity: 0;
+            animation: fade-rise 1.2s cubic-bezier(0.22, 1, 0.36, 1) 0.6s forwards;
+        }
+
+        .liquid-glass {
+            position: relative;
+            background: rgba(255, 255, 255, 0.01);
+            backdrop-filter: blur(4px);
+            transition: all 0.5s ease;
+        }
+
+        .liquid-glass::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            padding: 1px;
+            border-radius: inherit;
+            background: linear-gradient(to bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            pointer-events: none;
+        }
+
+        .liquid-glass:hover {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(8px);
+        }
+
+        body {
+            background-color: #00142b;
+            color: #d4e3ff;
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            scroll-behavior: smooth;
+        }
+
+        .nav-link-animated {
+            position: relative;
+            text-decoration: none;
+        }
+        .nav-link-animated::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 1px;
+            bottom: -4px;
+            left: 0;
+            background-color: currentColor;
+            transition: width 0.3s ease;
+        }
+        .nav-link-animated:hover::after {
+            width: 100%;
+        }
+        .nav-link-active::after {
+            width: 100%;
+        }
+
+        #hero-video {
+            transition: opacity 0.8s ease-out;
+        }
+
+        /* Animated Vertical Dotted Line */
+        .vertical-dotted-line {
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 1px;
+            background-image: linear-gradient(to bottom, #d4e3ff 50%, transparent 50%);
+            background-position: center;
+            background-size: 1px 12px;
+            background-repeat: repeat-y;
+            transform: translateX(-50%);
+            opacity: 0.2;
+            z-index: 0;
+        }
+
+        .scroll-highlight-point {
+            position: absolute;
+            left: 50%;
+            top: 0;
+            width: 2px;
+            height: 100vh;
+            background: radial-gradient(circle at center, #ffffff 0%, transparent 70%);
+            transform: translateX(-50%);
+            opacity: 0;
+            pointer-events: none;
+            filter: blur(4px);
+            mix-blend-mode: overlay;
+            z-index: 1;
+        }
+
+        .scroll-reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 1s cubic-bezier(0.22, 1, 0.36, 1);
+        }
+
+        .scroll-reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Luminescent Glow Animation */
+        @keyframes luminescent-glow {
+            0% { box-shadow: 0 0 0px rgba(255, 255, 255, 0); border-color: rgba(255, 255, 255, 0.1); }
+            50% { box-shadow: 0 0 25px rgba(212, 227, 255, 0.4); border-color: rgba(255, 255, 255, 0.6); }
+            100% { box-shadow: 0 0 0px rgba(255, 255, 255, 0); border-color: rgba(255, 255, 255, 0.1); }
+        }
+
+        .glow-active {
+            animation: luminescent-glow 2.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+            background: rgba(255, 255, 255, 0.08) !important;
+        }
+        
+        .glow-active .material-symbols-outlined {
+            color: #ffffff !important;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+            transition: all 0.5s ease;
+        }
+
+        /* Text Illumination Effect */
+        .illuminate-text {
+            background: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%) no-repeat;
+            background-size: 100% 0%;
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: rgba(255, 255, 255, 0.15); /* Low contrast starting state */
+            transition: background-size 1.2s cubic-bezier(0.22, 1, 0.36, 1), color 0.8s ease;
+        }
+        
+        .illuminate-text.active {
+            background-size: 100% 100%;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body class="antialiased">
+<nav class="fixed top-0 w-full z-50 flex justify-between items-center px-6 md:px-12 py-6 transition-all duration-500" id="main-nav">
+<div class="text-3xl tracking-tight font-['Instrument_Serif'] italic tracking-tighter text-slate-100">Velorah®</div>
+<div class="hidden md:flex items-center space-x-10">
+<a class="nav-link-animated nav-link-active text-white font-['Inter'] text-sm uppercase tracking-widest hover:text-white transition-colors duration-500" href="#">Home</a>
+<a class="text-slate-400 font-['Inter'] text-sm uppercase tracking-widest hover:text-white transition-colors duration-500 nav-link-animated" href="#">Studio</a>
+<a class="text-slate-400 font-['Inter'] text-sm uppercase tracking-widest hover:text-white transition-colors duration-500 nav-link-animated" href="#">About</a>
+<a class="text-slate-400 font-['Inter'] text-sm uppercase tracking-widest hover:text-white transition-colors duration-500 nav-link-animated" href="#">Journal</a>
+<a class="text-slate-400 font-['Inter'] text-sm uppercase tracking-widest hover:text-white transition-colors duration-500 nav-link-animated" href="#">Reach Us</a>
+</div>
+<button class="liquid-glass px-8 py-3 rounded-full text-slate-200 text-sm font-medium tracking-wide">
+        Begin Journey
+    </button>
+</nav>
+<main class="relative bg-brand-navy">
+<!-- Hero Section -->
+<section class="relative h-screen w-full flex items-center justify-center overflow-hidden bg-surface-dim">
+<video autoplay="" class="absolute inset-0 w-full h-full object-cover z-0 opacity-60" data-alt="cinematic slow motion abstract visual of flowing dark liquid and subtle light reflections with a noir atmosphere" id="hero-video" loop="" muted="" playsinline="">
+<source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260314_131748_f2ca2a28-fed7-44c8-b9a9-bd9acdd5ec31.mp4" type="video/mp4"/>
+</video>
+<div class="relative z-10 container mx-auto px-6 md:px-12 text-center flex flex-col items-center">
+<h1 class="animate-fade-rise text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-headline leading-[0.95] tracking-[-2.46px] text-white max-w-5xl">
+                Where <em class="not-italic text-on-surface-variant">dreams</em> rise <br class="hidden md:block"/> <em class="not-italic text-on-surface-variant">through the silence.</em>
+</h1>
+<p class="animate-fade-rise-delay mt-8 text-on-surface-variant text-base sm:text-lg md:text-xl font-light max-w-2xl leading-relaxed">
+                We're designing tools for deep thinkers, bold creators, and quiet rebels. 
+                Amid the chaos, we build digital spaces for sharp focus and inspired work.
+            </p>
+<button class="animate-fade-rise-delay-2 liquid-glass mt-12 px-14 py-5 rounded-full text-white text-lg font-medium tracking-tight hover:scale-[1.02] active:scale-[0.98] transition-all duration-300">
+                Begin Journey
+            </button>
+</div>
+<div class="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-4 opacity-40 animate-pulse">
+<span class="text-[0.6rem] uppercase tracking-[0.4em] font-medium text-white">Scroll</span>
+<div class="w-[1px] h-12 bg-gradient-to-b from-white to-transparent"></div>
+</div>
+</section>
+<!-- The Process Section -->
+<section class="relative py-32 md:py-48 px-6 md:px-12 overflow-hidden bg-brand-navy" id="process">
+<div class="vertical-dotted-line"></div>
+<div class="scroll-highlight-point" id="line-highlight"></div>
+<div class="container mx-auto relative z-10">
+<div class="text-center mb-24 md:mb-32 scroll-reveal">
+<h2 class="text-4xl md:text-6xl font-headline italic text-white tracking-tight">The Process</h2>
+<div class="w-12 h-[1px] bg-white/30 mx-auto mt-6"></div>
+</div>
+<div class="space-y-48 md:space-y-64 max-w-5xl mx-auto">
+<!-- Step 1: Develop -->
+<div class="flex flex-col md:flex-row items-center gap-12 md:gap-24 scroll-reveal" data-reveal-group="step-1">
+<div class="flex-1 order-2 md:order-1 text-center md:text-right">
+<div class="flex justify-center md:justify-end mb-4">
+<div class="liquid-glass w-12 h-12 rounded-lg flex items-center justify-center border border-white/10 shadow-[0_0_15px_rgba(255,255,255,0.05)] transition-all duration-700" id="icon-develop">
+<span class="material-symbols-outlined text-white/80 text-2xl">terminal</span>
+</div>
+</div>
+<h3 class="text-4xl md:text-5xl font-headline text-white mb-6">Develop</h3>
+<p class="text-on-surface-variant text-lg font-light leading-relaxed font-body">
+                            Unlock developer productivity. Long builds, complex config, and disjointed tools break the development process. Remove obstacles by giving them a better toolkit.
+                        </p>
+</div>
+<div class="relative order-1 md:order-2 flex-shrink-0">
+<div class="w-20 h-20 md:w-24 md:h-24 rounded-full border border-white/20 flex items-center justify-center bg-brand-navy z-10 relative">
+<span class="text-2xl md:text-3xl font-headline italic text-white">1</span>
+</div>
+</div>
+<div class="flex-1 hidden md:block order-3">
+<div class="aspect-video bg-surface-container rounded-xl overflow-hidden shadow-2xl border border-white/5">
+<img alt="Development Interface" class="w-full h-full object-cover opacity-60 mix-blend-luminosity" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDtYqYocFnZZpkGSyRO21hVQQ0UQmkHNzHldfgEQJWU2Ok4leM8boRTe_DCfudY0sMdCXscuJ5bo2vZHgzLtkYdNcqmdBEXRKK9-tEJxwPS_5NR_4NbXwQmj34wkyoge_0Yxo4ZNzWMqjYNe7JYz0C2pZ7ETYYMEh9V536sIioEiPWRT28Nvk7qN9j9-SVuM2mzdOwE_gaAnwAKDbXnQ6OW0aH-QxQ9PbFMsZvdTGfnPndPuml46_oYugRGrTjMR3U6ND5XIDqIbCWE"/>
+</div>
+</div>
+</div>
+<!-- Step 2: Design -->
+<div class="flex flex-col md:flex-row items-center gap-12 md:gap-24 scroll-reveal" data-reveal-group="step-2">
+<div class="flex-1 hidden md:block">
+<div class="aspect-video bg-surface-container rounded-xl overflow-hidden shadow-2xl border border-white/5">
+<img alt="Design System" class="w-full h-full object-cover opacity-60 mix-blend-luminosity" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD0mwDb1S3rOqKFzsaLu78Ru1hGKgdQ1yxaKUhL-bhlVWJlNGCqYchdZzZ0vvVUPZe9zCVzqLb12satuhlvGG8ajxJPNUvSKJRU5tqF7uyqYoZSLh9P5nbSuuXOd5nJujyJvqjSKgSbEOXltntUMUW5cbcgTN7Ss0fUxuLyHvvrkA3jOuMRsV2EEOLzjWMiyW01xNzrMxVgpWWvIMvCAplcDRQ-3d3tzqK2Z95xyuKWO_VmCsKaGJc_a1dfkrrFAfgI_QXX1lBIMul2"/>
+</div>
+</div>
+<div class="relative flex-shrink-0">
+<div class="w-20 h-20 md:w-24 md:h-24 rounded-full border border-white/20 flex items-center justify-center bg-brand-navy z-10 relative">
+<span class="text-2xl md:text-3xl font-headline italic text-white">2</span>
+</div>
+</div>
+<div class="flex-1 text-center md:text-left">
+<div class="flex justify-center md:justify-start mb-4">
+<div class="liquid-glass w-12 h-12 rounded-lg flex items-center justify-center border border-white/10 shadow-[0_0_15px_rgba(255,255,255,0.05)] transition-all duration-700" id="icon-design">
+<span class="material-symbols-outlined text-white/80 text-2xl">layers</span>
+</div>
+</div>
+<h3 class="text-4xl md:text-5xl font-headline text-white mb-6">Design</h3>
+<p class="text-on-surface-variant text-lg font-light leading-relaxed font-body">
+                            Crafting silence through visual clarity. We strip away the unnecessary, focusing on core aesthetics that resonate with the human spirit and digital precision.
+                        </p>
+</div>
+</div>
+<!-- Step 3: Deploy -->
+<div class="flex flex-col md:flex-row items-center gap-12 md:gap-24 scroll-reveal" data-reveal-group="step-3">
+<div class="flex-1 order-2 md:order-1 text-center md:text-right">
+<div class="flex justify-center md:justify-end mb-4">
+<div class="liquid-glass w-12 h-12 rounded-lg flex items-center justify-center border border-white/10 shadow-[0_0_15px_rgba(255,255,255,0.05)] transition-all duration-700" id="icon-deploy">
+<span class="material-symbols-outlined text-white/80 text-2xl">rocket_launch</span>
+</div>
+</div>
+<h3 class="text-4xl md:text-5xl font-headline text-white mb-6">Deploy</h3>
+<p class="text-on-surface-variant text-lg font-light leading-relaxed font-body">
+                            Seamless transitions into the wild. Our deployment strategy ensures that your vision reaches the world with the same integrity and speed as it was conceived.
+                        </p>
+</div>
+<div class="relative order-1 md:order-2 flex-shrink-0">
+<div class="w-20 h-20 md:w-24 md:h-24 rounded-full border border-white/20 flex items-center justify-center bg-brand-navy z-10 relative">
+<span class="text-2xl md:text-3xl font-headline italic text-white">3</span>
+</div>
+</div>
+<div class="flex-1 hidden md:block order-3">
+<div class="aspect-video bg-surface-container rounded-xl overflow-hidden shadow-2xl border border-white/5">
+<img alt="Global Deployment" class="w-full h-full object-cover opacity-60 mix-blend-luminosity" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCEqH3HkKJXjzCY0OaEpvjO-mGaohw9XLv7zKPzv_RMfnSI1TEU9wV30rULxtWPeGjmO7ZAYOEnG1ZQrnOggfh2-iz4tW7AIJM621jLhU_ssD2PrMKKATRTTd_-hb5VMxzSKVAfEqtfvbc8cPns8MKQNGlcSAjpA7c9gOMc96JqyG2-GLWVBLnGRgfOY3j9QmhUQqMtqQETfnvy78IraLtD7Kc79PpVBL6JGnMGI2MYKjYIAsdRmkg9MwaAxV6c01MpTbhoB5sAuts0"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Large Statement Section -->
+<section class="relative min-h-[80vh] flex items-center justify-center px-6 md:px-12 bg-surface-dim overflow-hidden" id="statement-section">
+<div class="container mx-auto max-w-6xl text-center py-24 md:py-32">
+<h2 class="illuminate-text text-5xl md:text-7xl lg:text-8xl font-headline leading-tight tracking-tight" id="reveal-statement">
+            We build the digital architecture <br class="hidden lg:block"/> that allows the world's most <br class="hidden lg:block"/> ambitious ideas to finally breathe.
+        </h2>
+</div>
+<!-- Subtle background movement for depth -->
+<div class="absolute inset-0 z-0 pointer-events-none opacity-20">
+<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-blue-500/10 blur-[120px] rounded-full"></div>
+</div>
+</section>
+</main>
+<footer class="w-full py-12 bg-slate-950 border-t border-white/5">
+<div class="max-w-7xl mx-auto px-12 flex flex-col md:flex-row justify-between items-center gap-8 md:gap-0">
+<div class="text-sm font-bold text-slate-300 font-['Instrument_Serif'] italic text-lg tracking-tighter">Velorah® Studios</div>
+<div class="flex items-center gap-8">
+<a class="text-slate-600 hover:text-slate-200 transition-all font-['Inter'] text-xs uppercase tracking-[0.2em]" href="#">Privacy</a>
+<a class="text-slate-600 hover:text-slate-200 transition-all font-['Inter'] text-xs uppercase tracking-[0.2em]" href="#">Terms</a>
+<a class="text-slate-600 hover:text-slate-200 transition-all font-['Inter'] text-xs uppercase tracking-[0.2em]" href="#">Social</a>
+</div>
+<p class="text-slate-500 font-['Inter'] text-xs uppercase tracking-[0.2em]">
+            © 2024 Velorah® Studios. All rights reserved.
+        </p>
+</div>
+</footer>
+<script>
+    // Initialize Scroll and Reveal logic
+    window.addEventListener('scroll', () => {
+        const scrollY = window.scrollY;
+        const windowHeight = window.innerHeight;
+        const video = document.getElementById('hero-video');
+        const nav = document.getElementById('main-nav');
+        const highlight = document.getElementById('line-highlight');
+        const processSection = document.getElementById('process');
+        const statementText = document.getElementById('reveal-statement');
+        
+        // 1. Hero Effects
+        const opacity = Math.max(0, 0.6 - (scrollY / windowHeight) * 0.6);
+        if (video) video.style.opacity = opacity;
+
+        // 2. Sticky Glass Navigation
+        if (scrollY > 50) {
+            nav.classList.add('liquid-glass', 'py-4', 'border-b', 'border-white/5');
+            nav.classList.remove('py-6');
+        } else {
+            nav.classList.remove('liquid-glass', 'py-4', 'border-b', 'border-white/5');
+            nav.classList.add('py-6');
+        }
+
+        // 3. Vertical Line Animation
+        if (processSection) {
+            const rect = processSection.getBoundingClientRect();
+            // Only show highlight when section is in view
+            if (rect.top < windowHeight && rect.bottom > 0) {
+                const relativeScroll = windowHeight / 2; 
+                highlight.style.opacity = '1';
+                const absoluteTop = scrollY + relativeScroll - processSection.offsetTop;
+                highlight.style.top = `${absoluteTop}px`;
+                highlight.style.transform = `translate(-50%, -50%) scaleY(0.5)`;
+            } else {
+                highlight.style.opacity = '0';
+            }
+        }
+
+        // 4. Scroll Reveal Logic for general items
+        const reveals = document.querySelectorAll('.scroll-reveal');
+        reveals.forEach(element => {
+            const elementTop = element.getBoundingClientRect().top;
+            const elementVisible = 150;
+            if (elementTop < windowHeight - elementVisible) {
+                element.classList.add('active');
+            }
+        });
+
+        // 5. Large Statement Reveal (Illumination)
+        if (statementText) {
+            const rect = statementText.getBoundingClientRect();
+            const threshold = windowHeight * 0.75;
+            if (rect.top < threshold) {
+                statementText.classList.add('active');
+            } else {
+                statementText.classList.remove('active');
+            }
+        }
+    });
+
+    // Intersection Observer for luminescent glow on icons
+    const observerOptions = {
+        root: null,
+        rootMargin: '-20% 0px -20% 0px', // Trigger when in the central 60% of viewport
+        threshold: 0.2
+    };
+
+    const iconObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            const group = entry.target.getAttribute('data-reveal-group');
+            let iconId = '';
+            
+            if (group === 'step-1') iconId = 'icon-develop';
+            if (group === 'step-2') iconId = 'icon-design';
+            if (group === 'step-3') iconId = 'icon-deploy';
+            
+            const icon = document.getElementById(iconId);
+            
+            if (entry.isIntersecting) {
+                icon?.classList.add('glow-active');
+            } else {
+                icon?.classList.remove('glow-active');
+            }
+        });
+    }, observerOptions);
+
+    // Observe each step group
+    document.querySelectorAll('[data-reveal-group]').forEach(el => iconObserver.observe(el));
+
+    // Initialize on load
+    window.dispatchEvent(new Event('scroll'));
+</script>
+</body></html>
