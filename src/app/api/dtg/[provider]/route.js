@@ -40,18 +40,15 @@ export async function GET(request, { params }) {
       if (!GELATO_KEY) return NextResponse.json({ fallback: true, message: "Missing GELATO_API_KEY" });
 
       try {
-        // We now bypass the live REST API pagination limits by serving the highly optimized local dictionary
-        // compiled via `syncGelato.mjs`. This grants instant access to all 600+ Base Products instantly.
-        const fs = require('fs');
-        const path = require('path');
-        const dictPath = path.resolve(process.cwd(), 'src/data/gelatoProducts.json');
+        // We bypass live REST API pagination limits by serving the highly optimized local dictionary.
+        // On Vercel, fs.readFileSync fails to find static files due to Serverless architecture isolating cwd.
+        // Using `require` natively forces Next.js Webpack to bundle the full JSON directly into the server chunk.
+        const mappedCatalog = require('../../../../../../src/data/gelatoProducts.json');
         
-        if (fs.existsSync(dictPath)) {
-            const rawData = fs.readFileSync(dictPath, 'utf8');
-            const mappedCatalog = JSON.parse(rawData);
+        if (mappedCatalog && mappedCatalog.length > 0) {
             return NextResponse.json({ fallback: false, catalog: mappedCatalog });
         } else {
-            return NextResponse.json({ fallback: true, message: "Local Gelato Database missing. Run syncGelato.mjs" });
+            return NextResponse.json({ fallback: true, message: "Database empty" });
         }
       } catch (err) {
         return NextResponse.json({ fallback: true, message: "Gelato execution error" });
