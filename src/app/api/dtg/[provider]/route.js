@@ -43,7 +43,7 @@ export async function GET(request, { params }) {
         // We bypass live REST API pagination limits by serving the highly optimized local dictionary.
         // On Vercel, fs.readFileSync fails to find static files due to Serverless architecture isolating cwd.
         // Using `require` natively forces Next.js Webpack to bundle the full JSON directly into the server chunk.
-        const mappedCatalog = require('../../../../../../src/data/gelatoProducts.json');
+        const mappedCatalog = require('@/data/gelatoProducts.json');
         
         if (mappedCatalog && mappedCatalog.length > 0) {
             return NextResponse.json({ fallback: false, catalog: mappedCatalog });
