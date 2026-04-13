@@ -1,0 +1,6855 @@
+[
+  {
+    "id": "cards_pf_140x180-mm_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | 140x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_210x279-mm_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | 210x279 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_4x9-inch_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | 4x9 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_5r_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | 5R",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a4_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | A4",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | A5",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5l_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | A5L",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lg_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | LG",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lt_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | LT",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sm_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | SM",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | SQ",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_100-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_10x10-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 10x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_11x14-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 11x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x12-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 12x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x16-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 12x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x18-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 12x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_14x14-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 14x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x16-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 16x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x20-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 16x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x18-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 18x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x24-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 18x24 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x20-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 20x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x28-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 20x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x32-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 24x32 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x36-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 24x36 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x28-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 28x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x40-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 28x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_30x40-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 30x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_6x8-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 6x8 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x10-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 8x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x12-inch_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | 8x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a0_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | A0",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a2_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | A2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a3_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | A3",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_xl_pt_100-lb-cover-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Cover Uncoated Offwhite Archival | XL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x400-mm_pt_100-lb-text-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 100 Lb Text Coated Silk | 300x400 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flyers_pf_4x9-inch_pt_100-lb-text-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Text Coated Silk | 4x9 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "large-posters_pf_533x711-mm_pt_100-lb-text-coated-silk_cl_4-0_ver",
+    "label": "[Gelato] 100 Lb Text Coated Silk | 533x711 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5_pt_100-lb-text-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Text Coated Silk | A5",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a6_pt_100-lb-text-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Text Coated Silk | A6",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flyers_pf_sq210x210_pt_100-lb-text-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Text Coated Silk | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flyers_pf_sq210x210_pt_100-lb-text-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 100 Lb Text Uncoated | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_140x180-mm_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | 140x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_210x279-mm_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | 210x279 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_4x9-inch_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | 4x9 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_5r_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | 5R",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a4_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | A4",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | A5",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5l_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | A5L",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bb_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | BB",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_dl_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | DL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lg_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | LG",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lt_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | LT",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sm_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | SM",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | SQ",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_100-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 100 Silk Cover | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_210x279-mm_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | 210x279 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_5r_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | 5R",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a4_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | A4",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5l_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | A5L",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bb_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | BB",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bc_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | BC",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bd_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | BD",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bx_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | BX",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lg_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | LG",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lt_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | LT",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sm_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | SM",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sx_pt_110-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 110 Lb Cover Uncoated | SX",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bx_pt_110-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 110 Silk Cover | BX",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_140x180-mm_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | 140x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_210x279-mm_pt_130-lb-cover-uncoated_cl_4-0_ver",
+    "label": "[Gelato] 130 Lb Cover Uncoated | 210x279 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_5r_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | 5R",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a4_pt_130-lb-cover-uncoated_cl_4-0_ver",
+    "label": "[Gelato] 130 Lb Cover Uncoated | A4",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5l_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | A5L",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bb_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | BB",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bc_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | BC",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bd_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | BD",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lg_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | LG",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lt_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | LT",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sm_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | SM",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sx_pt_130-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 130 Lb Cover Uncoated | SX",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_140x180-mm_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | 140x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_210x279-mm_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | 210x279 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_5r_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | 5R",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a4_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | A4",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5l_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | A5L",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bb_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | BB",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bc_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | BC",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bd_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | BD",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bx_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | BX",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lg_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | LG",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_lt_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | LT",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sm_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | SM",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sx_pt_130-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 130 Silk Cover | SX",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_10x10-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 10x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_11x14-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 11x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x12-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 12x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x16-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 12x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x18-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 12x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_130x180-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 130x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_14x14-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 14x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_150x200-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 150x200 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x16-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 16x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x20-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 16x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x18-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 18x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x24-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 18x24 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x20-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 20x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x28-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 20x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x32-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 24x32 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x36-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 24x36 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x40-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 28x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x300-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 300x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x450-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 300x450 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_305x406-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 305x406 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_30x40-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 30x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_450x600-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 450x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x500-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 500x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x800-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 600x800 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x900-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 600x900 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_6x8-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 6x8 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x700-mm_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 700x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x10-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 8x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x12-inch_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | 8x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_xl_pt_170-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Coated Silk | XL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_10x10-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 10x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_11x14-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 11x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x12-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 12x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x16-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 12x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x18-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 12x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_130x180-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 130x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_14x14-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 14x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_150x200-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 150x200 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x16-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 16x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x20-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 16x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x18-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 18x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x24-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 18x24 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x20-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 20x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x28-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 20x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_210x300-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 210x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x32-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 24x32 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x36-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 24x36 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x40-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 28x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x300-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 300x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x400-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 300x400 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x450-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 300x450 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_305x406-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 305x406 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_30x40-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 30x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x500-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 400x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x600-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 400x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_450x600-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 450x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x500-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 500x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x700-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 500x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x800-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 600x800 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x900-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 600x900 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_6x8-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 6x8 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x1000-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 700x1000 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x700-mm_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 700x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x10-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 8x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x12-inch_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | 8x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a0_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | A0",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a1_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | A1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a2_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | A2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b1_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | B1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b2_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | B2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_xl_pt_170-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 170 Gsm Uncoated | XL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_10x10-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 10x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_11x14-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 11x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x12-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 12x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x16-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 12x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x18-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 12x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_130x180-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 130x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_14x14-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 14x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_150x200-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 150x200 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x16-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 16x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x20-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 16x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x18-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 18x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x24-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 18x24 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x20-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 20x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x28-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 20x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_210x300-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 210x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x32-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 24x32 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x36-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 24x36 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x40-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 28x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x300-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 300x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x400-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 300x400 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x450-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 300x450 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_305x406-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 305x406 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_30x40-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 30x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x500-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 400x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x600-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 400x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_450x600-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 450x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x500-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 500x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x700-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 500x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x800-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 600x800 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x900-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 600x900 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_6x8-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 6x8 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x1000-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 700x1000 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x700-mm_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 700x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x10-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 8x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x12-inch_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | 8x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a0_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | A0",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a2_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | A2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a3_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | A3",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b2_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | B2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_xl_pt_200-gsm-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Coated Silk | XL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_10x10-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 10x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_11x14-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 11x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x12-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 12x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x16-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 12x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_12x18-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 12x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_130x180-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 130x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_14x14-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 14x14 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_150x200-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 150x200 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x16-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 16x16 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_16x20-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 16x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x18-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 18x18 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_18x24-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 18x24 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x20-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 20x20 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_20x28-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 20x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_210x300-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 210x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x32-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 24x32 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_24x36-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 24x36 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x40-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 28x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x300-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 300x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x400-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 300x400 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x450-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 300x450 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_305x406-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 305x406 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_30x40-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 30x40 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x500-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 400x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x600-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 400x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_450x600-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 450x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x500-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 500x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x700-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 500x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_533x711-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 533x711 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x800-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 600x800 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x900-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 600x900 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_610x910-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 610x910 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_6x8-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 6x8 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x1000-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 700x1000 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x700-mm_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 700x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x10-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 8x10 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_8x12-inch_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | 8x12 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a0_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | A0",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a1_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | A1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a2_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | A2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a3_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | A3",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b1_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | B1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b2_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | B2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_xl_pt_200-gsm-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 200 Gsm Uncoated | XL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_210x279-mm_pt_250-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Coated Silk | 210x279 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a4_pt_250-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Coated Silk | A4",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5_pt_250-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Coated Silk | A5",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a6_pt_250-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Coated Silk | A6",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_dl_pt_250-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Coated Silk | DL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq_pt_250-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Coated Silk | SQ",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_250-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Coated Silk | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a5_pt_250-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Uncoated | A5",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a6_pt_250-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Uncoated | A6",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_dl_pt_250-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Uncoated | DL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq_pt_250-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Uncoated | SQ",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_250-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 250 Gsm Uncoated | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_130x180-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 130x180 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_150x200-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 150x200 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_200x250-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 200x250 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_250x250-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 250x250 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_270x350-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 270x350 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_280x430-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 280x430 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x300-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 300x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x400-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 300x400 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_300x450-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 300x450 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_350x350-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 350x350 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x400-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 400x400 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x500-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 400x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x600-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 400x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_450x450-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 450x450 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_450x600-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 450x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x500-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 500x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x700-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 500x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x800-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 600x800 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_600x900-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 600x900 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x1000-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 700x1000 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x700-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 700x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_750x1000-mm_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | 750x1000 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a0_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | A0",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a1_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | A1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a2_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | A2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a3_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | A3",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b1_pt_250-gsm-uncoated-offwhite-archival_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 250 Gsm Uncoated Offwhite Archival | B1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bd_pt_300-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Coated Silk | BD",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq_pt_300-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Coated Silk | SQ",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a6_pt_300-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Uncoated | A6",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bb_pt_300-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Uncoated | BB",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bc_pt_300-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Uncoated | BC",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bd_pt_300-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Uncoated | BD",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_dl_pt_300-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Uncoated | DL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq_pt_300-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Uncoated | SQ",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_300-gsm-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 300 Gsm Uncoated | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_a6_pt_350-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 350 Gsm Coated Silk | A6",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_bb_pt_350-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 350 Gsm Coated Silk | BB",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_dl_pt_350-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 350 Gsm Coated Silk | DL",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_sq210x210_pt_350-gsm-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 350 Gsm Coated Silk | SQ210x210",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_210x300-mm_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | 210x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x28-inch_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | 28x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_305x406-mm_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | 305x406 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x500-mm_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | 400x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x700-mm_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | 500x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a1_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | A1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b1_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | B1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b2_pt_65-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Lb Cover Uncoated | B2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_210x300-mm_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | 210x300 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x28-inch_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | 28x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x500-mm_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | 400x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_400x600-mm_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | 400x600 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x500-mm_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | 500x500 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_500x700-mm_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | 500x700 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "large-posters_pf_533x711-mm_pt_65-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 65 Silk Cover | 533x711 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_700x1000-mm_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | 700x1000 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a0_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | A0",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a1_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | A1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_a3_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | A3",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b1_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | B1",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_b2_pt_65-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 65 Silk Cover | B2",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x28-inch_pt_80-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 80 Lb Cover Uncoated | 28x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_4x9-inch_pt_80-lb-cover-uncoated_cl_4-0_hor",
+    "label": "[Gelato] 80 Lb Cover Uncoated | 4x9 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_533x711-mm_pt_80-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 80 Lb Cover Uncoated | 533x711 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_610x910-mm_pt_80-lb-cover-uncoated_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 80 Lb Cover Uncoated | 610x910 mm",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "flat_product_pf_28x28-inch_pt_80-lb-cover-coated-silk_cl_4-0_ct_none_prt_none_sft_none_set_none_hor",
+    "label": "[Gelato] 80 Silk Cover | 28x28 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "cards_pf_4x9-inch_pt_80-lb-cover-coated-silk_cl_4-0_hor",
+    "label": "[Gelato] 80 Silk Cover | 4x9 inch",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_womens_gqa_prm_gsi_l_gco_black_gpr_0-4_alternative_9906zt",
+    "label": "[Gelato] Alternative 9906ZT | Prm Womens Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_organic_gsi_2xl_gco_black_gpr_0-4_alternative-ladies_5114bp",
+    "label": "[Gelato] Alternative Ladies 5114BP | Organic Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_ash-grey_gpr_0-4_american-apparel_1301",
+    "label": "[Gelato] American Apparel 1301 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 11 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 11 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 11 | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 11 | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 11 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11pro_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 11pro | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11pro_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 11pro | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11pro_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 11pro | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11promax_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 11promax | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11promax_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 11promax | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-11promax_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 11promax | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 12 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 12 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 12 | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 12 | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 12 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12mini_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 12mini | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12mini_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 12mini | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12mini_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 12mini | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12pro_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 12pro | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12pro_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 12pro | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12pro_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 12pro | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12pro_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 12pro | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12pro_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 12pro | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12promax_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 12promax | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12promax_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 12promax | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-12promax_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 12promax | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 13 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 13 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 13 | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 13 | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 13 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13mini_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 13mini | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13mini_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 13mini | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13mini_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 13mini | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13pro_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 13pro | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13pro_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 13pro | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13pro_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 13pro | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13promax_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 13promax | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13promax_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 13promax | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-13promax_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 13promax | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 14 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 14 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 14 | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 14 | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 14 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14plus_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 14plus | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14plus_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 14plus | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14plus_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 14plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14pro_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 14pro | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14pro_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 14pro | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14pro_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 14pro | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14promax_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 14promax | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14promax_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 14promax | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-14promax_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 14promax | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 15 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 15 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 15 | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 15 | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 15 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15plus_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 15plus | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15plus_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 15plus | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15plus_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 15plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15pro_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 15pro | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15pro_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 15pro | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15pro_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 15pro | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15promax_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 15promax | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15promax_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 15promax | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-15promax_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 15promax | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 16 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 16 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 16 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16plus_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 16plus | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16plus_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 16plus | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16plus_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 16plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16pro_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 16pro | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16pro_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 16pro | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16pro_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 16pro | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16promax_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone 16promax | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16promax_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone 16promax | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-16promax_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 16promax | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-7_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 7 | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-7_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 7 | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-7_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 7 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-7plus_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 7plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-8_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone 8 | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-8_eco_black_satin",
+    "label": "[Gelato] Apple Iphone 8 | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-8_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 8 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-8plus_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone 8plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-se_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone Se | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-se_eco_black_satin",
+    "label": "[Gelato] Apple Iphone Se | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-se_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone Se | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-x_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone X | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-x_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone X | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-x_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone X | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-x_eco_black_satin",
+    "label": "[Gelato] Apple Iphone X | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-x_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone X | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xr_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone Xr | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xr_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone Xr | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xr_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone Xr | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xr_eco_black_satin",
+    "label": "[Gelato] Apple Iphone Xr | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xr_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone Xr | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xs_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone Xs | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xs_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone Xs | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xs_clear_transparent_satin",
+    "label": "[Gelato] Apple Iphone Xs | Satin Clear Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xs_eco_black_satin",
+    "label": "[Gelato] Apple Iphone Xs | Satin Eco Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xs_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone Xs | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xsmax_slim_white_glossy",
+    "label": "[Gelato] Apple Iphone Xsmax | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xsmax_tough_white_glossy",
+    "label": "[Gelato] Apple Iphone Xsmax | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_apple_iphone-xsmax_flexi_transparent_satin",
+    "label": "[Gelato] Apple Iphone Xsmax | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_classic_gsi_onesize_gco_army_gpr_0-4-emb_as-colour_1114",
+    "label": "[Gelato] As Colour 1114 | Classic Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_classic_gsi_onesize_gco_armywhite_gpr_0-4-emb_as-colour_1123",
+    "label": "[Gelato] As Colour 1123 | Classic Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_classic_gsi_onesize_gco_blacknatural_gpr_0-4-emb_as-colour_1154",
+    "label": "[Gelato] As Colour 1154 | Classic Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_classic_gsi_onesize_gco_black_gpr_0-4-emb_atlantis_atdade",
+    "label": "[Gelato] Atlantis ATDADE | Classic Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_beanie_gcu_unisex_gqa_organic_gsi_onesize_gco_black_gpr_4-0-emb_atlantis_nelson",
+    "label": "[Gelato] Atlantis NELSON | Organic Unisex Beanie Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_beanie_gcu_unisex_gqa_organic_gsi_onesize_gco_black_gpr_4-0-emb_beechfield_b44r",
+    "label": "[Gelato] Beechfield B44R | Organic Unisex Beanie Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_snapback_gcu_kids_gqa_organic_gsi_onesize_gco_black_gpr_0-4-emb_beechfield_b63nb",
+    "label": "[Gelato] Beechfield B63NB | Organic Kids Snapback Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_womens_gqa_prm_gsi_2xl_gco_athletic-heather_gpr_0-4_bella-and-canvas_1012be",
+    "label": "[Gelato] Bella And Canvas 1012BE | Prm Womens Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_aqua_gpr_0-4-lg_bcklbl_bella-and-canvas_3001",
+    "label": "[Gelato] Bella And Canvas 3001 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_bella-and-canvas_3006",
+    "label": "[Gelato] Bella And Canvas 3006 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_athletic-heather_gpr_0-4_bella-and-canvas_3010",
+    "label": "[Gelato] Bella And Canvas 3010 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_prm_gsi_2xl_gco_athletic-heather_gpr_0-4_bella-and-canvas_3719",
+    "label": "[Gelato] Bella And Canvas 3719 | Prm Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_ash_gpr_0-4_bella-and-canvas_3901",
+    "label": "[Gelato] Bella And Canvas 3901 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_prm_gsi_2xl_gco_ash_gpr_0-4_bella-and-canvas_6004",
+    "label": "[Gelato] Bella And Canvas 6004 | Prm Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_prm_gsi_2xl_gco_berry_gpr_0-4_bella-and-canvas_6400",
+    "label": "[Gelato] Bella And Canvas 6400 | Prm Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_v-neck_gcu_womens_gqa_prm_gsi_2xl_gco_asphalt_gpr_0-4_bella-and-canvas_6405",
+    "label": "[Gelato] Bella And Canvas 6405 | Prm Womens V Neck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_cropped_gcu_womens_gqa_prm_gsi_2xl_gco_black_gpr_0-4_bella-and-canvas_7502",
+    "label": "[Gelato] Bella And Canvas 7502 | Prm Womens Cropped Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_cropped_gcu_womens_gqa_prm_gsi_2xl_gco_black_gpr_0-4_bella-and-canvas_7503",
+    "label": "[Gelato] Bella And Canvas 7503 | Prm Womens Cropped Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_womens_gqa_prm_gsi_2xl_gco_black_gpr_0-4_bella-and-canvas_7505",
+    "label": "[Gelato] Bella And Canvas 7505 | Prm Womens Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_womens_gqa_prm_gsi_2xl_gco_ash-grey_gpr_0-4_bella-and-canvas_8800",
+    "label": "[Gelato] Bella And Canvas 8800 | Prm Womens Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_womens_gqa_prm_gsi_2xl_gco_athletic-heather_gpr_0-4_bella-and-canvas_8803",
+    "label": "[Gelato] Bella And Canvas 8803 | Prm Womens Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_ceramic-black_cl_4-0",
+    "label": "[Gelato] Ceramic Black Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_ceramic-blue_cl_4-0",
+    "label": "[Gelato] Ceramic Blue Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_ceramic-green_cl_4-0",
+    "label": "[Gelato] Ceramic Green Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_ceramic-pink_cl_4-0",
+    "label": "[Gelato] Ceramic Pink Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_ceramic-red_cl_4-0",
+    "label": "[Gelato] Ceramic Red Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_ceramic-white_cl_4-0",
+    "label": "[Gelato] Ceramic White Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_ceramic-yellow_cl_4-0",
+    "label": "[Gelato] Ceramic Yellow Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_zip_gcu_unisex_gqa_prm_gsi_2xl_gco_athletic-navy_gpr_chstl-emb_champion_chp190",
+    "label": "[Gelato] Champion CHP190 | Prm Unisex Zip Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_mens_gqa_prm_gsi_2xl_gco_athletic-royal_gpr_0-4_champion_s1049",
+    "label": "[Gelato] Champion S1049 | Prm Mens Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_organic_gsi_2xl_gco_athletic-royal_gpr_0-4_champion_s1051",
+    "label": "[Gelato] Champion S1051 | Organic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_champion_s600",
+    "label": "[Gelato] Champion S600 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_kids_gqa_prm_gsi_l_gco_black_gpr_0-4_champion_s790",
+    "label": "[Gelato] Champion S790 | Prm Kids Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_zip_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_champion_s800",
+    "label": "[Gelato] Champion S800 | Prm Unisex Zip Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_kids_gqa_prm_gsi_l_gco_black_gpr_0-4_champion_t435",
+    "label": "[Gelato] Champion T435 | Prm Kids Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_prm_gsi_2xl_gco_black_gpr_0-4_champion_t453w",
+    "label": "[Gelato] Champion T453W | Prm Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_beanie_gcu_unisex_gqa_prm_gsi_onesize_gco_black_gpr_4-0-emb_columbia_1682201",
+    "label": "[Gelato] Columbia 1682201 | Prm Unisex Beanie Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_comfort-colours_1466",
+    "label": "[Gelato] Comfort Colours 1466 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_amethyst_gpr_0-4_comfort-colours_1545",
+    "label": "[Gelato] Comfort Colours 1545 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_blue-jean_gpr_0-4_comfort-colours_1566",
+    "label": "[Gelato] Comfort Colours 1566 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_amethyst_gpr_0-4_comfort-colours_1745",
+    "label": "[Gelato] Comfort Colours 1745 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_banana_gpr_0-4_comfort-colours_6030",
+    "label": "[Gelato] Comfort Colours 6030 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_comfort-colours_9360",
+    "label": "[Gelato] Comfort Colours 9360 | Prm Unisex Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_kids_gqa_prm_gsi_l_gco_black_gpr_0-4_comfort-colours_c9018",
+    "label": "[Gelato] Comfort Colours C9018 | Prm Kids Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_anchor-slate_gpr_0-4_comfort-wash_gdh400",
+    "label": "[Gelato] Comfort Wash GDH400 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_longsleeve-crew_gcu_kids_gqa_prm_gsi_l_gco_coral-craze_gpr_0-4_comfortwash_gdh275",
+    "label": "[Gelato] Comfortwash GDH275 | Prm Kids Longsleeve Crew T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_2xl_gco_black_gpr_0-4_econscious_ec1000",
+    "label": "[Gelato] Econscious EC1000 | Organic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_2xl_gco_black_gpr_0-4_econscious_ec1007u",
+    "label": "[Gelato] Econscious EC1007U | Organic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_2xl_gco_basalt-gray_gpr_0-4_econscious_ec1070",
+    "label": "[Gelato] Econscious EC1070 | Organic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_2xl_gco_asparagus_gpr_0-4_econscious_ec1085",
+    "label": "[Gelato] Econscious EC1085 | Organic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_longsleeve-crew_gcu_unisex_gqa_organic_gsi_2xl_gco_black_gpr_0-4_econscious_ec1500",
+    "label": "[Gelato] Econscious EC1500 | Organic Unisex Longsleeve Crew T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_zip_gcu_womens_gqa_organic_gsi_2xl_gco_berry_gpr_0-4_econscious_ec4580",
+    "label": "[Gelato] Econscious EC4580 | Organic Womens Zip Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_organic_gsi_2xl_gco_black_gpr_0-4_econscious_ec5500",
+    "label": "[Gelato] Econscious EC5500 | Organic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_organic_gsi_onesize_gco_beetroot_gpr_0-4-emb_econscious_ec7000",
+    "label": "[Gelato] Econscious EC7000 | Organic Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_classic_gsi_l-xl_gco_black_gpr_0-4-emb_flexfit_6277",
+    "label": "[Gelato] Flexfit 6277 | Classic Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_trucker-hat_gcu_unisex_gqa_prm_gsi_onesize_gco_black--white_gpr_4-0-emb_flexfit_6511",
+    "label": "[Gelato] Flexfit 6511 | Prm Unisex Trucker Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_trucker-hat_gcu_unisex_gqa_prm_gsi_onesize_gco_black--black_gpr_4-0-emb_flexfit_6606",
+    "label": "[Gelato] Flexfit 6606 | Prm Unisex Trucker Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_kids_gqa_classic_gsi_l_gco_ash_gpr_0-4",
+    "label": "[Gelato] Generic | Classic Kids Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_2xl_gco_ash_gpr_0-4_gildan_18000",
+    "label": "[Gelato] Gildan 18000 | Classic Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_kids_gqa_classic_gsi_l_gco_black_gpr_0-4_gildan_18000b",
+    "label": "[Gelato] Gildan 18000B | Classic Kids Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_classic_gsi_2xl_gco_ash_gpr_0-4_gildan_18500",
+    "label": "[Gelato] Gildan 18500 | Classic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_kids_gqa_classic_gsi_l_gco_black_gpr_0-4_gildan_18500b",
+    "label": "[Gelato] Gildan 18500B | Classic Kids Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_ultracotton_gsi_2xl_gco_antique-cherry-red_gpr_0-4_gildan_2000",
+    "label": "[Gelato] Gildan 2000 | Ultracotton Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_longsleeve-crew_gcu_unisex_gqa_classic_gsi_2xl_gco_ash_gpr_0-4_gildan_2400",
+    "label": "[Gelato] Gildan 2400 | Classic Unisex Longsleeve Crew T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_heavy-weight_gsi_2xl_gco_ash_gpr_0-4-lg_bcklbl_gildan_5000",
+    "label": "[Gelato] Gildan 5000 | Heavy Weight Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_kids_gqa_classic_gsi_l_gco_ash_gpr_0-4-lg_bcklbl_gildan_5000b",
+    "label": "[Gelato] Gildan 5000B | Classic Kids Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_heavy-weight_gsi_2xl_gco_azalea_gpr_0-4-lg_bcklbl_gildan_5000l",
+    "label": "[Gelato] Gildan 5000L | Heavy Weight Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_mens_gqa_classic_gsi_2xl_gco_black_gpr_0-4_gildan_5200",
+    "label": "[Gelato] Gildan 5200 | Classic Mens Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_2xl_gco_azalea_gpr_0-4_gildan_64000",
+    "label": "[Gelato] Gildan 64000 | Classic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_classic_gsi_2xl_gco_azalea_gpr_0-4_gildan_64000l",
+    "label": "[Gelato] Gildan 64000L | Classic Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_classic_gsi_2xl_gco_black_gpr_0-4_gildan_880",
+    "label": "[Gelato] Gildan 880 | Classic Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_softstyle_gsi_2xl_gco_black_gpr_0-4_gildan_sf000",
+    "label": "[Gelato] Gildan SF000 | Softstyle Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_softstyle_gsi_2xl_gco_black_gpr_0-4_gildan_sf500",
+    "label": "[Gelato] Gildan SF500 | Softstyle Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_kids_gqa_softstyle_gsi_l_gco_black_gpr_0-4_gildan_sf500b",
+    "label": "[Gelato] Gildan SF500B | Softstyle Kids Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_ash_gpr_0-4_hanes_4980",
+    "label": "[Gelato] Hanes 4980 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_ash_gpr_0-4_hanes_5280",
+    "label": "[Gelato] Hanes 5280 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_athletic-red_gpr_0-4_hanes_rs160",
+    "label": "[Gelato] Hanes RS160 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_11-oz_mmat_heat-transfer-black_cl_4-0",
+    "label": "[Gelato] Heat Transfer Black Mug | 11 Oz",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_pigment-alpine-green_gpr_0-4_independent_prm3500",
+    "label": "[Gelato] Independent PRM3500 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_army-heather_gpr_0-4_independent_ss3000",
+    "label": "[Gelato] Independent SS3000 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_mens_gqa_prm_gsi_2xl_gco_alpine-green_gpr_0-4_independent_ss4500",
+    "label": "[Gelato] Independent SS4500 | Prm Mens Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_ash_gpr_0-4_jerzees_562mr",
+    "label": "[Gelato] Jerzees 562MR | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_prm_gsi_3xl_gco_arctic-white_gpr_0-4_just-hoods_jh001",
+    "label": "[Gelato] Just Hoods JH001 | Prm Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_lane-seven_ls13001",
+    "label": "[Gelato] Lane Seven LS13001 | Prm Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_lane-seven_ls14004",
+    "label": "[Gelato] Lane Seven LS14004 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_mens_gqa_prm_gsi_2xl_gco_ash_gpr_0-4_inlbl_m-and-o_4800",
+    "label": "[Gelato] M And O 4800 | Prm Mens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_12-oz-enamel_mmat_metal-enamel-white_cl_4-0",
+    "label": "[Gelato] Metal Enamel White Mug | 12 Oz Enamel",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_womens_gqa_classic_gsi_2xl_gco_banana-cream_gpr_0-4_next-level_1533",
+    "label": "[Gelato] Next Level 1533 | Classic Womens Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_2xl_gco_banana-cream_gpr_0-4_inlbl_next-level_3600",
+    "label": "[Gelato] Next Level 3600 | Classic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black--natural_gpr_0-4_inlbl_next-level_3604",
+    "label": "[Gelato] Next Level 3604 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_2xl_gco_black_gpr_0-4_next-level_4600",
+    "label": "[Gelato] Next Level 4600 | Organic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_l_gco_black_gpr_0-4_next-level_6410",
+    "label": "[Gelato] Next Level 6410 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_triblend_gsi_2xl_gco_heather-white_gpr_0-4_inlbl_next-level_6710",
+    "label": "[Gelato] Next Level 6710 | Triblend Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_womens_gqa_triblend_gsi_2xl_gco_envy_gpr_0-4_next-level_6733",
+    "label": "[Gelato] Next Level 6733 | Triblend Womens Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_next-level_ls11004",
+    "label": "[Gelato] Next Level LS11004 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_next-level_ls16004",
+    "label": "[Gelato] Next Level LS16004 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_apple-green_gpr_0-4_next-level_n6210",
+    "label": "[Gelato] Next Level N6210 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_prm_gsi_onesize_gco_black_gpr_0-4-emb_left-emb_pacific-headwear_p206",
+    "label": "[Gelato] Pacific Headwear P206 | Prm Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "mug_product_msz_10-oz-slim_mmat_porcelain-white_cl_4-0",
+    "label": "[Gelato] Porcelain White Mug | 10 Oz Slim",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_kids_gqa_prm_gsi_2t_gco_ash_gpr_0-4_rabbit-skins_3321",
+    "label": "[Gelato] Rabbit Skins 3321 | Prm Kids Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_zip_gcu_baby_gqa_prm_gsi_12m_gco_black_gpr_0-4_rabbit-skins_3446",
+    "label": "[Gelato] Rabbit Skins 3446 | Prm Baby Zip Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_onesie_gsc_longsleeve-crew_gcu_baby_gqa_prm_gsi_12m_gco_black_gpr_0-4_rabbit-skins_4412",
+    "label": "[Gelato] Rabbit Skins 4412 | Prm Baby Longsleeve Crew Onesie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_onesie_gsc_longsleeve-crew_gcu_baby_gqa_prm_gsi_12m_gco_granite-hth--wht_gpr_0-4_rabbit-skins_4418",
+    "label": "[Gelato] Rabbit Skins 4418 | Prm Baby Longsleeve Crew Onesie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_trucker-hat_gcu_unisex_gqa_classic_gsi_one-size_gco_biscuit-true-blue_gpr_0-4-dtf_left-dtf_richardson_112",
+    "label": "[Gelato] Richardson 112 | Classic Unisex Trucker Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_dad-hat_gcu_unisex_gqa_classic_gsi_adjustable_gco_black-white_gpr_0-4-dtf_left-dtf_richardson_258",
+    "label": "[Gelato] Richardson 258 | Classic Unisex Dad Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_polo_gcu_mens_gqa_organic_gsi_2xl_gco_aqua_gpr_backlg-emb_chstl-emb_russell_je508m",
+    "label": "[Gelato] Russell JE508M | Organic Mens Polo",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S20 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S20 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S20 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20plus_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S20plus | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20plus_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S20plus | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20plus_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S20plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20ultra_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S20ultra | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20ultra_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S20ultra | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s20ultra_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S20ultra | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S21 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S21 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S21 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21plus_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S21plus | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21plus_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S21plus | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21plus_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S21plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21ultra_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S21ultra | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21ultra_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S21ultra | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s21ultra_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S21ultra | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S22 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S22 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S22 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22plus_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S22plus | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22plus_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S22plus | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22plus_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S22plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22ultra_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S22ultra | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22ultra_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S22ultra | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s22ultra_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S22ultra | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S23 | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S23 | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S23 | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23plus_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S23plus | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23plus_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S23plus | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23plus_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S23plus | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23ultra_slim_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S23ultra | Glossy Slim Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23ultra_tough_white_glossy",
+    "label": "[Gelato] Samsung Galaxy S23ultra | Glossy Tough Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "phonecase_samsung_galaxy-s23ultra_flexi_transparent_satin",
+    "label": "[Gelato] Samsung Galaxy S23ultra | Satin Flexi Case",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_longsleeve-crew_gcu_womens_gqa_prm_gsi_l_gco_charcoal-melange_gpr_0-4_sols_02075",
+    "label": "[Gelato] Sols 02075 | Prm Womens Longsleeve Crew T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_zip_gcu_kids_gqa_prm_gsi_10y_gco_black_gpr_0-4_sols_02092",
+    "label": "[Gelato] Sols 02092 | Prm Kids Zip Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_mens_gqa_organic_gsi_3xl_gco_apple-green_gpr_0-4_inlbl_sols_03565",
+    "label": "[Gelato] Sols 03565 | Organic Mens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_organic_gsi_3xl_gco_black_gpr_0-4_sols_03568",
+    "label": "[Gelato] Sols 03568 | Organic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_3xl_gco_black_gpr_0-4_sols_03574",
+    "label": "[Gelato] Sols 03574 | Organic Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_kids_gqa_organic_gsi_10y_gco_black_gpr_0-4_sols_03576",
+    "label": "[Gelato] Sols 03576 | Organic Kids Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_oversized_gcu_womens_gqa_organic_gsi_l_gco_deep-black_gpr_0-4_inlbl_sols_03807",
+    "label": "[Gelato] Sols 03807 | Organic Womens Oversized T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_organic_gsi_3xl_gco_arctic-blue_gpr_0-4_sols_03815",
+    "label": "[Gelato] Sols 03815 | Organic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_jacket-and-vest_gcu_unisex_gqa_organic_gsi_3xl_gco_black_gpr_backlg-emb_chstl-emb_sols_03822",
+    "label": "[Gelato] Sols 03822 | Organic Unisex Jacket And Vest",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_jacket-and-vest_gcu_womens_gqa_organic_gsi_3xl_gco_abyss-blue_gpr_backlg-emb_chstl-emb_sols_03826",
+    "label": "[Gelato] Sols 03826 | Organic Womens Jacket And Vest",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_tank-top_gcu_unisex_gqa_organic_gsi_3xl_gco_arctic-blue_gpr_0-4_inlbl_sols_03980",
+    "label": "[Gelato] Sols 03980 | Organic Unisex Tank Top T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_3xl_gco_arctic-blue_gpr_0-4_inlbl_sols_03981",
+    "label": "[Gelato] Sols 03981 | Organic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_longsleeve-crew_gcu_unisex_gqa_organic_gsi_3xl_gco_bright-red_gpr_0-4_sols_03982",
+    "label": "[Gelato] Sols 03982 | Organic Unisex Longsleeve Crew T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_organic_gsi_3xl_gco_black_gpr_0-4_sols_03991",
+    "label": "[Gelato] Sols 03991 | Organic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_oversized_gcu_unisex_gqa_organic_gsi_3xl_gco_deep-black_gpr_0-4_inlbl_sols_03996",
+    "label": "[Gelato] Sols 03996 | Organic Unisex Oversized T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_3xl_gco_absolute-white_gpr_0-4_inlbl_sols_04203",
+    "label": "[Gelato] Sols 04203 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_organic_gsi_3xl_gco_arctic-blue_gpr_0-4_sols_04232",
+    "label": "[Gelato] Sols 04232 | Organic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_organic_gsi_3xl_gco_army_gpr_0-4_inlbl_sols_04233",
+    "label": "[Gelato] Sols 04233 | Organic Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_zip_gcu_unisex_gqa_organic_gsi_3xl_gco_black_gpr_0-4_sols_04234",
+    "label": "[Gelato] Sols 04234 | Organic Unisex Zip Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_zip_gcu_unisex_gqa_organic_gsi_3xl_gco_black_gpr_0-4_sols_04237",
+    "label": "[Gelato] Sols 04237 | Organic Unisex Zip Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_kids_gqa_organic_gsi_10y_gco_black_gpr_0-4_sols_04238",
+    "label": "[Gelato] Sols 04238 | Organic Kids Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_kids_gqa_prm_gsi_10y_gco_black_gpr_0-4_sols_04239",
+    "label": "[Gelato] Sols 04239 | Prm Kids Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_zip_gcu_unisex_gqa_organic_gsi_3xl_gco_black_gpr_0-4_sols_04240",
+    "label": "[Gelato] Sols 04240 | Organic Unisex Zip Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_home-and-living_gsc_apron_gqa_organic_gsi_onesize_gco_ancient-pink_gpr_chstc-emb_sols_3569",
+    "label": "[Gelato] Sols 3569 | Organic None Apron Home And Living",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_beanie_gcu_unisex_gqa_organic_gsi_onesize_gco_aloe_gpr_4-0-emb_stanley-stella_stau771",
+    "label": "[Gelato] Stanley Stella STAU771 | Organic Unisex Beanie Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_pullover_gcu_unisex_gqa_organic_gsi_2xl_gco_army_gpr_0-4_threadfast_320h",
+    "label": "[Gelato] Threadfast 320H | Organic Unisex Pullover Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_zip_gcu_mens_gqa_prm_gsi_2xl_gco_black_gpr_0-4_threadfast_320q",
+    "label": "[Gelato] Threadfast 320Q | Prm Mens Zip Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_mineral-black_gpr_0-4_shsll_shslr_tie-dye_cd1300",
+    "label": "[Gelato] Tie Dye CD1300 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_cotton-candy_gpr_0-4_tie-dye_h8100",
+    "label": "[Gelato] Tie Dye H8100 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hoodie_gsc_cropped_gcu_womens_gqa_prm_gsi_2xl_gco_black_gpr_0-4_tridri_td077",
+    "label": "[Gelato] Tridri TD077 | Prm Womens Cropped Hoodie",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_aqua_gpr_0-4_shsll_shslr_tultex_202",
+    "label": "[Gelato] Tultex 202 | Prm Unisex Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_longsleeve-crew_gcu_mens_gqa_prm_gsi_2xl_gco_black--heather-charcoal_gpr_0-4_tultex_245",
+    "label": "[Gelato] Tultex 245 | Prm Mens Longsleeve Crew T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_sweatshirt_gsc_crewneck_gcu_unisex_gqa_prm_gsi_2xl_gco_black_gpr_0-4_tultex_340",
+    "label": "[Gelato] Tultex 340 | Prm Unisex Crewneck Sweatshirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_mens_gqa_prm_gsi_2xl_gco_black--white_gpr_0-4_under-armour_1383264",
+    "label": "[Gelato] Under Armour 1383264 | Prm Mens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_womens_gqa_prm_gsi_2xl_gco_black--white_gpr_0-4_under-armour_1383284",
+    "label": "[Gelato] Under Armour 1383284 | Prm Womens Crewneck T Shirt",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_beanie_gcu_unisex_gqa_classic_gsi_onesize_gco_baby-pink_gpr_4-0-emb_yupoong_1500",
+    "label": "[Gelato] Yupoong 1500 | Classic Unisex Beanie Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  },
+  {
+    "id": "apparel_product_gca_hat_gsc_trucker-hat_gcu_unisex_gqa_classic_gsi_onesize_gco_black_gpr_0-4-dtf_left-dtf_right-dtf_yupoong_6006",
+    "label": "[Gelato] Yupoong 6006 | Classic Unisex Trucker Hat Hat",
+    "base": 11.5,
+    "shipping": {
+      "usa": 4.5,
+      "canada": 6.5,
+      "europe": 4.5,
+      "worldwide": 8.5
+    }
+  }
+]
