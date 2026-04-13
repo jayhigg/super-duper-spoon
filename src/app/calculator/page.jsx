@@ -45,6 +45,11 @@ export default function Calculator() {
   const [isDemo, setIsDemo] = useState(false);
   const [fullCatalogSize, setFullCatalogSize] = useState(null);
 
+  // Variant / Size Selector (Pro users only)
+  const [variants, setVariants] = useState([]);
+  const [selectedVariant, setSelectedVariant] = useState(null);
+  const [isLoadingVariants, setIsLoadingVariants] = useState(false);
+
   // Subscription Details
   const [printifyPremium, setPrintifyPremium] = useState(false);
   const [gelatoPlus, setGelatoPlus] = useState(false);
@@ -115,6 +120,38 @@ export default function Calculator() {
       }
     }
   }, [preset, activeCatalog]);
+
+  // Fetch variants when product changes (Pro users only)
+  useEffect(() => {
+    if (!isPro || !preset || preset === 'custom') {
+      setVariants([]);
+      setSelectedVariant(null);
+      return;
+    }
+
+    async function fetchVariants() {
+      setIsLoadingVariants(true);
+      setVariants([]);
+      setSelectedVariant(null);
+      try {
+        const res = await fetch(`/api/dtg/${dtgPlatform}/variants?productId=${encodeURIComponent(preset)}`);
+        const data = await res.json();
+        if (data.variants && data.variants.length > 0) {
+          setVariants(data.variants);
+          // Auto-select the first variant and update garment cost
+          setSelectedVariant(data.variants[0].id);
+          if (data.variants[0].price > 0) {
+            setGarmentCost(data.variants[0].price.toFixed(2));
+          }
+        }
+      } catch (err) {
+        console.warn('Could not fetch variants:', err.message);
+      }
+      setIsLoadingVariants(false);
+    }
+
+    fetchVariants();
+  }, [preset, dtgPlatform, isPro]);
 
   // Trigger Backend Fetch Sequence
   useEffect(() => {
@@ -465,6 +502,43 @@ export default function Calculator() {
                     Unlock Full Catalog →
                   </button>
                 )}
+              </div>
+            )}
+
+            {/* Variant / Size Selector — Pro users only */}
+            {isPro && variants.length > 0 && (
+              <div className="form-group" style={{ marginBottom: '1.5rem' }}>
+                <label style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  Size / Variant
+                  {isLoadingVariants && (
+                    <span style={{ fontSize: '0.75rem', color: 'var(--color-orange)', fontStyle: 'italic' }}>Loading...</span>
+                  )}
+                </label>
+                <select
+                  value={selectedVariant || ''}
+                  onChange={(e) => {
+                    const variantId = e.target.value;
+                    setSelectedVariant(variantId);
+                    const found = variants.find(v => v.id === variantId);
+                    if (found && found.price > 0) {
+                      setGarmentCost(found.price.toFixed(2));
+                      setPreset(preset); // keep preset context
+                    }
+                  }}
+                >
+                  {variants.map(v => (
+                    <option key={v.id} value={v.id}>
+                      {v.label}{v.price > 0 ? ` — $${v.price.toFixed(2)}` : ''}
+                    </option>
+                  ))}
+                </select>
+                <div className="helper-text">Garment cost auto-filled from selected size</div>
+              </div>
+            )}
+
+            {isPro && isLoadingVariants && variants.length === 0 && (
+              <div style={{ fontSize: '0.82rem', color: 'var(--color-orange)', marginBottom: '1rem', fontStyle: 'italic' }}>
+                Fetching size variants...
               </div>
             )}
 
