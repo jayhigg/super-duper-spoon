@@ -40,6 +40,6 @@ export async function POST(req) {
     return NextResponse.json({ url: session.url });
   } catch (error) {
     console.error("Stripe Checkout Error:", error);
-    return NextResponse.json({ error: "Internal Server Error" }, { status: 500 });
+    return NextResponse.json({ error: "Checkout Execution Error", message: error.message, stack: error.stack }, { status: 500 });
   }
 }

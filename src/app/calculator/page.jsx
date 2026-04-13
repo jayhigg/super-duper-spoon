@@ -53,9 +53,14 @@ export default function Calculator() {
     setIsUpgrading(true);
     try {
       const res = await fetch('/api/stripe/checkout', { method: 'POST' });
-      const { url } = await res.json();
-      if (url) window.location.href = url;
+      const data = await res.json();
+      if (data.url) {
+          window.location.href = data.url;
+      } else {
+          alert("SERVER ERROR: " + JSON.stringify(data));
+      }
     } catch (err) {
+      alert("CLIENT ERROR: " + err.message);
       console.error("Checkout init failed:", err);
     }
     setIsUpgrading(false);
