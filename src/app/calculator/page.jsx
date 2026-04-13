@@ -42,11 +42,18 @@ export default function Calculator() {
 
   const [isLoadingAPI, setIsLoadingAPI] = useState(false);
   const [activeCatalog, setActiveCatalog] = useState(dtgData['printify']);
+  const [isDemo, setIsDemo] = useState(false);
+  const [fullCatalogSize, setFullCatalogSize] = useState(null);
 
   // Subscription Details
   const [printifyPremium, setPrintifyPremium] = useState(false);
   const [gelatoPlus, setGelatoPlus] = useState(false);
   const [isUpgrading, setIsUpgrading] = useState(false);
+
+  // Amazon-specific
+  const [amazonProfessional, setAmazonProfessional] = useState(false);
+  // Shopify-specific
+  const [shopifyPlan, setShopifyPlan] = useState('basic'); // basic | shopify | advanced
 
   // Trigger Stripe Checkout
   const handleUpgradeClick = async () => {
@@ -116,27 +123,28 @@ export default function Calculator() {
       try {
         const response = await fetch(`/api/dtg/${dtgPlatform}`);
         const result = await response.json();
-        
-        let targetList = dtgData[dtgPlatform]; // Always default to offline map
+
+        let targetList = dtgData[dtgPlatform]; // fallback
         if (!result.fallback && result.catalog && result.catalog.length > 0) {
-          targetList = result.catalog; 
+          targetList = result.catalog;
         }
-        
+
         setActiveCatalog(targetList);
+        setIsDemo(result.isDemo === true);
+        setFullCatalogSize(result.isDemo ? null : targetList.length);
 
         if (preset !== 'custom') {
           const exists = targetList.find(p => p.id === preset);
-          if (!exists) {
-            setPreset(targetList[0].id); // default to the first real option
-          }
+          if (!exists) setPreset(targetList[0].id);
         }
       } catch (err) {
-        console.warn("Backend API not reachable. Using fallback static cache.");
+        console.warn('Backend API not reachable. Using fallback static cache.');
         setActiveCatalog(dtgData[dtgPlatform]);
+        setIsDemo(false);
       }
       setIsLoadingAPI(false);
     }
-    
+
     verifyBackendKeys();
   }, [dtgPlatform]);
 
@@ -190,17 +198,30 @@ export default function Calculator() {
 
     feePercentage = transactionFeeRate + processingFeeRate + adsRate;
     fixedFee = listingFee + processingFixed;
-    
     platformFees = fixedFee + (desiredSalePrice * feePercentage);
+
   } else if (sellerPlatform === 'tiktok') {
     const referralFeeRate = 0.06;
     const processingFeeRate = 0.0102;
     const affiliateRate = affiliateCommission / 100;
-    
+
     feePercentage = referralFeeRate + processingFeeRate + affiliateRate;
     fixedFee = 0;
-
     platformFees = desiredSalePrice * feePercentage;
+
+  } else if (sellerPlatform === 'amazon') {
+    // Amazon Apparel referral fee: 15% + $0.99 per item (Individual plan)
+    // Professional Seller plan: no per-item fee ($39.99/mo subscription absorbed separately)
+    feePercentage = 0.15;
+    fixedFee = amazonProfessional ? 0 : 0.99;
+    platformFees = (desiredSalePrice * feePercentage) + fixedFee;
+
+  } else if (sellerPlatform === 'shopify') {
+    // Shopify Payments processing fee (no marketplace referral — it's your own store)
+    const shopifyRates = { basic: 0.029, shopify: 0.026, advanced: 0.024 };
+    feePercentage = shopifyRates[shopifyPlan] || 0.029;
+    fixedFee = 0.30;
+    platformFees = (desiredSalePrice * feePercentage) + fixedFee;
   }
 
   const takeHomePayout = desiredSalePrice - platformFees;
@@ -301,28 +322,15 @@ export default function Calculator() {
           <div className="card">
             <h2>2. Seller Platform</h2>
             <div className="pill-group">
-              <button 
-                className={`pill-btn ${sellerPlatform === 'etsy' ? 'active' : ''}`}
-                onClick={() => setSellerPlatform('etsy')}
-              >
-                Etsy
-              </button>
-              <button 
-                className={`pill-btn ${sellerPlatform === 'tiktok' ? 'active' : ''}`}
-                onClick={() => setSellerPlatform('tiktok')}
-              >
-                TikTok Shop
-              </button>
+              <button className={`pill-btn ${sellerPlatform === 'etsy' ? 'active' : ''}`} onClick={() => setSellerPlatform('etsy')}>Etsy</button>
+              <button className={`pill-btn ${sellerPlatform === 'tiktok' ? 'active' : ''}`} onClick={() => setSellerPlatform('tiktok')}>TikTok Shop</button>
+              <button className={`pill-btn ${sellerPlatform === 'amazon' ? 'active' : ''}`} onClick={() => setSellerPlatform('amazon')}>Amazon</button>
+              <button className={`pill-btn ${sellerPlatform === 'shopify' ? 'active' : ''}`} onClick={() => setSellerPlatform('shopify')}>Shopify</button>
             </div>
 
             {sellerPlatform === 'etsy' && (
               <div className="form-group toggle-wrapper" style={{ marginTop: '1.5rem' }}>
-                <input 
-                  type="checkbox" 
-                  id="offsiteAds" 
-                  checked={offsiteAds}
-                  onChange={(e) => setOffsiteAds(e.target.checked)}
-                />
+                <input type="checkbox" id="offsiteAds" checked={offsiteAds} onChange={(e) => setOffsiteAds(e.target.checked)} />
                 <label htmlFor="offsiteAds">Include Offsite Ads Penalty (15%)</label>
               </div>
             )}
@@ -331,13 +339,36 @@ export default function Calculator() {
               <div className="form-group" style={{ marginTop: '1.5rem' }}>
                 <label>Creator Affiliate Commission</label>
                 <div className="input-suffix">
-                  <input 
-                    type="number" 
-                    min="0" max="100"
-                    value={affiliateCommission}
-                    onChange={(e) => setAffiliateCommission(e.target.value)}
-                  />
+                  <input type="number" min="0" max="100" value={affiliateCommission} onChange={(e) => setAffiliateCommission(e.target.value)} />
                 </div>
+              </div>
+            )}
+
+            {sellerPlatform === 'amazon' && (
+              <div style={{ marginTop: '1.5rem' }}>
+                <div className="form-group toggle-wrapper">
+                  <input type="checkbox" id="amazonPro" checked={amazonProfessional} onChange={(e) => setAmazonProfessional(e.target.checked)} />
+                  <label htmlFor="amazonPro">I have a Professional Seller account (removes $0.99/item fee)</label>
+                </div>
+                <p style={{ fontSize: '0.78rem', color: 'var(--color-text-light)', marginTop: '0.5rem' }}>
+                  Apparel referral fee: 15% · Individual plan adds $0.99/item
+                </p>
+              </div>
+            )}
+
+            {sellerPlatform === 'shopify' && (
+              <div style={{ marginTop: '1.5rem' }}>
+                <div className="form-group">
+                  <label>Shopify Payments Plan</label>
+                  <select value={shopifyPlan} onChange={(e) => setShopifyPlan(e.target.value)}>
+                    <option value="basic">Basic — 2.9% + $0.30</option>
+                    <option value="shopify">Shopify — 2.6% + $0.30</option>
+                    <option value="advanced">Advanced — 2.4% + $0.30</option>
+                  </select>
+                </div>
+                <p style={{ fontSize: '0.78rem', color: 'var(--color-text-light)', marginTop: '0.5rem' }}>
+                  No marketplace referral fee — you keep more of every sale.
+                </p>
               </div>
             )}
           </div>
@@ -400,7 +431,43 @@ export default function Calculator() {
                 )}
               </div>
             </div>
-            
+
+            {isDemo && (
+              <div style={{
+                marginTop: '0.75rem',
+                padding: '0.65rem 1rem',
+                borderRadius: '8px',
+                background: 'linear-gradient(135deg, rgba(255,160,50,0.12), rgba(255,120,30,0.06))',
+                border: '1px solid rgba(255,160,50,0.3)',
+                fontSize: '0.82rem',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'space-between',
+                gap: '0.5rem'
+              }}>
+                <span style={{ color: 'var(--color-text-light)' }}>
+                  ⭐ Showing <strong style={{ color: 'var(--color-orange)' }}>top 5 bestsellers</strong> — free demo
+                </span>
+                {!isPro && (
+                  <button
+                    onClick={handleUpgradeClick}
+                    style={{
+                      background: 'var(--color-orange)',
+                      color: '#fff',
+                      border: 'none',
+                      borderRadius: '5px',
+                      padding: '4px 12px',
+                      fontSize: '0.78rem',
+                      fontWeight: '600',
+                      cursor: 'pointer',
+                      whiteSpace: 'nowrap'
+                    }}>
+                    Unlock Full Catalog →
+                  </button>
+                )}
+              </div>
+            )}
+
             <div className="grid-2">
               <div className="form-group">
                 <label>Garment Cost</label>
