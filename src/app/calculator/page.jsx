@@ -29,7 +29,7 @@ const dtgData = {
   ]
 };
 
-import { UserButton } from "@clerk/nextjs";
+import { UserButton, useUser } from "@clerk/nextjs";
 
 export default function Calculator() {
   // Global Flow Settings
@@ -37,6 +37,9 @@ export default function Calculator() {
   const [sellerPlatform, setSellerPlatform] = useState('etsy');
 
   // Backend Security State
+  const { user } = useUser();
+  const isPro = user?.publicMetadata?.isPro === true;
+
   const [isLoadingAPI, setIsLoadingAPI] = useState(false);
   const [activeCatalog, setActiveCatalog] = useState(dtgData['printify']);
 
@@ -210,7 +213,22 @@ export default function Calculator() {
     <div className="app-container">
       <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div>
-          <h1>True Margin</h1>
+          <h1 style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            True Margin
+            {isPro && (
+              <span style={{
+                fontSize: '0.45em',
+                backgroundColor: 'var(--color-orange)',
+                color: '#fff',
+                padding: '2px 8px',
+                borderRadius: '4px',
+                fontWeight: 'bold',
+                letterSpacing: '1px',
+                textTransform: 'uppercase',
+                transform: 'translateY(-2px)'
+              }}>PRO</span>
+            )}
+          </h1>
           <p>The high-performance profit calculator for POD & DTG sellers.</p>
         </div>
         <div>
@@ -515,13 +533,15 @@ export default function Calculator() {
                 <span>${totalCogs.toFixed(2)}</span>
               </div>
               
-              <button 
-                onClick={handleUpgradeClick} 
-                disabled={isUpgrading}
-                className="pill-btn active" 
-                style={{ width: '100%', marginTop: '2rem', padding: '1rem', backgroundColor: 'var(--color-orange)' }}>
-                {isUpgrading ? 'Loading Secure Checkout...' : 'Upgrade to Pro'}
-              </button>
+              {!isPro && (
+                <button 
+                  onClick={handleUpgradeClick} 
+                  disabled={isUpgrading}
+                  className="pill-btn active" 
+                  style={{ width: '100%', marginTop: '2rem', padding: '1rem', backgroundColor: 'var(--color-orange)' }}>
+                  {isUpgrading ? 'Loading Secure Checkout...' : 'Upgrade to Pro'}
+                </button>
+              )}
             </div>
           </div>
         </div>
