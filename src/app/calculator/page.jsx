@@ -95,6 +95,7 @@ export default function Calculator() {
 
   // Platform specific
   const [offsiteAds, setOffsiteAds] = useState(false);
+  const [useAffiliate, setUseAffiliate] = useState(false);
   const [affiliateCommission, setAffiliateCommission] = useState(16);
 
   // Reverse Engineer
@@ -240,7 +241,7 @@ export default function Calculator() {
   } else if (sellerPlatform === 'tiktok') {
     const referralFeeRate = 0.06;
     const processingFeeRate = 0.0102;
-    const affiliateRate = affiliateCommission / 100;
+    const affiliateRate = useAffiliate ? (affiliateCommission / 100) : 0;
 
     feePercentage = referralFeeRate + processingFeeRate + affiliateRate;
     fixedFee = 0;
@@ -373,11 +374,32 @@ export default function Calculator() {
             )}
 
             {sellerPlatform === 'tiktok' && (
-              <div className="form-group" style={{ marginTop: '1.5rem' }}>
-                <label>Creator Affiliate Commission</label>
-                <div className="input-suffix">
-                  <input type="number" min="0" max="100" value={affiliateCommission} onChange={(e) => setAffiliateCommission(e.target.value)} />
+              <div style={{ marginTop: '1.5rem' }}>
+                <div className="form-group toggle-wrapper">
+                  <input
+                    type="checkbox"
+                    id="useAffiliate"
+                    checked={useAffiliate}
+                    onChange={(e) => setUseAffiliate(e.target.checked)}
+                  />
+                  <label htmlFor="useAffiliate">Include Creator Affiliate Commission</label>
                 </div>
+                {useAffiliate && (
+                  <div className="form-group" style={{ marginTop: '1rem' }}>
+                    <label>Commission Rate</label>
+                    <div className="input-suffix">
+                      <input
+                        type="number"
+                        min="0"
+                        max="100"
+                        step="0.5"
+                        value={affiliateCommission}
+                        onChange={(e) => setAffiliateCommission(e.target.value)}
+                      />
+                      <span>%</span>
+                    </div>
+                  </div>
+                )}
               </div>
             )}
 
