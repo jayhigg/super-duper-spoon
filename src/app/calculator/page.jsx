@@ -295,8 +295,18 @@ export default function Calculator() {
           </h1>
           <p>The high-performance profit calculator for POD & DTG sellers.</p>
         </div>
-        <div>
-          <UserButton afterSignOutUrl="/" />
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+          {user ? (
+            <UserButton afterSignOutUrl="/" />
+          ) : (
+            <a
+              href="/sign-in"
+              className="pill-btn active"
+              style={{ padding: '0.4rem 1rem', fontSize: '0.85rem', textDecoration: 'none' }}
+            >
+              Sign In
+            </a>
+          )}
         </div>
       </header>
 

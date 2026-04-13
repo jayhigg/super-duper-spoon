@@ -1,13 +1,8 @@
-import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
+import { clerkMiddleware } from "@clerk/nextjs/server";
 
-// We distinctly protect the `/calculator` route since it represents the core value proposition of True Margin.
-const isProtectedRoute = createRouteMatcher(["/calculator(.*)"]);
-
-export default clerkMiddleware(async (auth, req) => {
-  if (isProtectedRoute(req)) {
-    await auth.protect(); // Forces redirect to sign-in page if not authenticated
-  }
-});
+// The calculator is publicly accessible — no login required.
+// Clerk middleware is still active so authenticated users get their Pro benefits via useUser().
+export default clerkMiddleware();
 
 export const config = {
   matcher: [
