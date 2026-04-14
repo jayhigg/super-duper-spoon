@@ -1,5 +1,6 @@
 "use client";
 import './calculator.css';
+import ProviderComparison from '@/components/ProviderComparison';
 import { useState, useEffect, useRef } from 'react';
 
 const dtgData = {
@@ -366,6 +367,13 @@ export default function Calculator() {
               </div>
             )}
           </div>
+          <ProviderComparison 
+            selectedProduct={searchTerm}
+            printifyPremium={printifyPremium}
+            gelatoPlus={gelatoPlus}
+            onSelectProvider={(p) => setDtgPlatform(p)}
+          />
+
 
           <div className="card">
             <h2>2. Seller Platform</h2>
